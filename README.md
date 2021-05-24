@@ -1,5 +1,5 @@
 ## Ignite02 Challenge 1 - TODO Application - ReactJS
-Projeto direcionado pela Rocketseat no Ignite, criar uma aplicação onde possam ser feitas operações de uma lista TODO de afazeres, desde a criação de uma tarefa até interações com as mesmas, utilizando ReactJS.
+Desafio direcionado pela Rocketseat no Ignite, criar uma aplicação onde possam ser feitas operações de uma lista TODO de afazeres, desde a criação de uma tarefa até interações com as mesmas, utilizando ReactJS.
 
 ---
 
